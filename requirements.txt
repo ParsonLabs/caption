@@ -1,0 +1,11 @@
+moviepy==1.0.3
+pydub==0.25.1
+SpeechRecognition==3.10.0
+numpy>=1.26.0
+Pillow>=10.0.0
+git+https://github.com/openai/whisper.git
+ffmpeg-python==0.2.0
+setuptools>=69.0.0
+wheel>=0.42.0
+--index-url https://download.pytorch.org/whl/nightly/cu121
+torch>=2.3.0
